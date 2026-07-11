@@ -8,7 +8,7 @@ An interactive Sales Performance Dashboard developed using Microsoft Power BI to
 
 ## Dashboard Preview
 
-![Dashboard](Sales%20Performance%20Dashboard%20Power%20BI.png)
+![Dashboard](dashboard.png)
 
 ---
 
